@@ -1,0 +1,47 @@
+h1, h2{
+    text-align: center;
+}
+
+.view{
+    display: inline;
+}
+
+.heading{
+    display: block;
+    background-color: blueviolet;
+    position: relative;
+    width: screen;
+    border: 0px solid blueviolet;
+    padding: 20px;
+    margin: 0px;
+    border-radius: 20px;
+}
+
+body{
+    position: relative;
+}
+
+.section > a{
+    color: black;
+}
+
+.about{
+    position: absolute;
+    left: 20%;
+}
+
+.contact{
+    position: absolute;
+    left: 80%;
+}
+
+.section > a{
+    font-size: larger;
+    background-color: blueviolet;
+    font-weight: bold;
+    border-radius: 4px;
+    height: 30px;
+    border: 4px solid blueviolet;
+    margin: 0px;
+    padding: 4px 4px;
+}

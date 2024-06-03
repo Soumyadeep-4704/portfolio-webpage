@@ -1,0 +1,25 @@
+h1{
+    background-color: blueviolet;
+    text-align: center;
+    width: screen;
+    border: 0px solid blueviolet;
+    padding: 20px;
+    margin: 0px;
+    border-radius: 20px;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    background-color: blueviolet;
+    border-radius: 4px;
+    height: 30px;
+    border: 4px solid blueviolet;
+    margin: 0px;
+    padding: 4px 4px;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+}

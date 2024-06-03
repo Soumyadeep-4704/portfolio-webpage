@@ -1,0 +1,14 @@
+h1{
+    background-color: blueviolet;
+    text-align: center;
+    width: screen;
+    border: 0px solid blueviolet;
+    padding: 20px;
+    margin: 0px;
+    border-radius: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+}
